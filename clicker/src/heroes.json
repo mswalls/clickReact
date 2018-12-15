@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "Ana.png"
+    },
+    {
+      "id": 2,
+      "image": "Brig.png"    
+    },
+    {
+      "id": 3,
+      "image": "Doomfist.png"
+    },
+    {
+      "id": 4,
+      "image": "DvA.png" 
+    },
+    {
+      "id": 5,
+      "image": "Hammond.png"
+    },
+    {
+      "id": 6,
+      "image": "Orisa.png"
+    },
+    {
+      "id": 7,
+      "image": "Pharah.png"
+    },
+    {
+      "id": 8,
+      "image": "Reinhardt.png"
+    },
+    {
+      "id": 9,
+      "image": "Roadhog.png"
+    },
+    {
+      "id": 10,
+      "image": "Sombra.png"
+    },
+    {
+      "id": 11,
+      "image": "Winston.png"
+    },
+    {
+      "id": 12,
+      "image": "Zenyatta.png"
+    }
+  ]
